@@ -1,0 +1,14 @@
+#summary About pykismetkml
+#labels Featured
+= Introduction =
+
+pykismetkml is heavily based on the original pykismetearth (http://code.google.com/p/pykismetearth).
+
+
+= Details =
+
+The functionality of pykismetkml is documented in "Features".
+
+= Bugs? =
+
+Feel free to submit an issue.
