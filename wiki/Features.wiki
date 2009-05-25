@@ -1,0 +1,24 @@
+#summary Feature and future feature list
+#labels Phase-Requirements
+
+= Introduction =
+
+This is a list of current and proposed (future) features
+
+
+= Details =
+
+Current Features (v0.2)
+  * Export .gps and .xml to .kml
+  * Basic statistics about warpath route
+  * Route distance using Haversine or Vincenty formula
+  * Rough calculation of AP density
+  * Channel Filter
+
+
+Future Features?
+  * Vendor Information
+  * Channel colours/icons
+  * More filters
+  * Alternate point mapping (trilateration?)
+  * Radius range 
