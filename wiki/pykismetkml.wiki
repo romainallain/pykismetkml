@@ -2,7 +2,13 @@
 #labels Featured
 = Introduction =
 
-pykismetkml is heavily based on the original pykismetearth (http://code.google.com/p/pykismetearth).
+pykismetkml is a python script designed to export .gps and .xml files (in < Kismet RC1) to .kml files and .netxml files to .kml files in => Kismet RC2. The oldest script is based largely on pykismetearth, while the most recent revision to work with the newest version of Kismet has been coded from scratch.
+
+= Versions =
+
+*0.3b* - Beta designed to work with the latest version of Kismet. *NOTE:* The latest version of Kismet (RC2 as of writing) has a small bug that causes XML parse errors within .netxml log files. To use pykismetkml please build from the latest version of Kismet from the SVN. This addresses the parsing issue and allows pykismetkml to work with the log data.
+
+*0.2* - Based on pykismetearth and will work only with versions of Kismet prior to RC1. It's highly suggested you update Kismet and use 0.3b instead.
 
 
 = Details =
