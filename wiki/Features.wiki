@@ -8,17 +8,33 @@ This is a list of current and proposed (future) features
 
 = Details =
 
-Current Features (v0.2)
+==Version 0.3b== (current)
+
+Current Features
+  *Export .netxml to .kml
+  *Custom placemark icons (for encryption)
+  *Vendor Information (thanks to Kismet)
+  *New placing algorithm (in RC2)
+
+Future Features?
+  *Warparth as LineString
+  *Warpath statistics (inc route distance)
+  *AP statistics
+  *Filters (not really need as Kismet already has these, see kismet.conf)
+
+
+
+==Version 0.2== (old)
+
+Current Features
   * Export .gps and .xml to .kml
   * Basic statistics about warpath route
   * Route distance using Haversine or Vincenty formula
   * Rough calculation of AP density
   * Channel Filter
 
-
 Future Features?
   * Vendor Information
   * Channel colours/icons
   * More filters
-  * Alternate point mapping (trilateration?)
   * Radius range 
