@@ -8,23 +8,23 @@ This is a list of current and proposed (future) features
 
 = Details =
 
-==Version 0.3b== (current)
+== Version 0.3b == (current)
 
 Current Features
-  *Export .netxml to .kml
-  *Custom placemark icons (for encryption)
-  *Vendor Information (thanks to Kismet)
-  *New placing algorithm (in RC2)
+  * Export .netxml to .kml
+  * Custom placemark icons (for encryption)
+  * Vendor Information (thanks to Kismet)
+  * New placing algorithm (in RC2)
 
 Future Features?
-  *Warparth as LineString
-  *Warpath statistics (inc route distance)
-  *AP statistics
-  *Filters (not really need as Kismet already has these, see kismet.conf)
+  * Warparth as LineString
+  * Warpath statistics (inc route distance)
+  * AP statistics
+  * Filters (not really need as Kismet already has these, see kismet.conf)
 
 
 
-==Version 0.2== (old)
+== Version 0.2 == (old)
 
 Current Features
   * Export .gps and .xml to .kml
