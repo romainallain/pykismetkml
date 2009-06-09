@@ -1,0 +1,21 @@
+#summary One-sentence summary of this page.
+#labels Help
+
+= Introduction =
+
+Look for any errors you may be getting here for a possible solution.
+
+
+= Errors =
+
+*Parse Error*
+Cause: A small character bug in Kismet that doesn't close some xml tags properly. This can happen in <= RC2.
+Solution: Build Kismet from the latest version in the SVN and this will fix the bug.
+
+*IOError File not Found*
+Cause: The file wasn't able to be opened, this is due to the fact that your OS isn't able to open the file using the specified path.
+Solution: Double check the filepath, if you are using Windows, you may need to escape backslashes in a file path using '\\' e.g. "C:\\Python30\\mykismetfile.netxml"
+
+*IOError Permission Denied*
+Cause: File permissions prevent read access to netxml or gpsxml file OR pykismetkml is unable to create a new file to write to.
+Solution: Double check permissions and chmod certain files if needed. If trying to write to /var/log/kismet this error may occur.
