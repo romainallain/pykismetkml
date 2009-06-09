@@ -5,6 +5,11 @@
 
 Look for any errors you may be getting here for a possible solution.
 
+= FAQ = 
+
+Q: How do I execute python scripts from the command line (Windows)?
+A: [http://www.voidspace.org.uk/python/articles/command_line.shtml#path]
+
 
 = Errors =
 
