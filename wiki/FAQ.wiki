@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Provides help for errors a user may come across
 #labels Help
 
 = Introduction =
