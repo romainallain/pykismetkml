@@ -6,9 +6,23 @@
 This is a list of current and proposed (future) features
 
 
-= Details =
+== Version 0.4 (current) ==
 
-== Version 0.3b (current) ==
+Current Features
+  * Export .netxml and .gpsxml to .kml
+  * Custom placemark icons
+  * Warpath mapping
+  * Input/output specified through options
+  * Pretty name parsing
+
+Future Features?
+  * AP/warpath stats
+  * More advanced error handling
+  * Mapping filters(?)
+  * Radius overlays (difficult)
+
+
+== Version 0.3b ==
 
 Current Features
   * Export .netxml to .kml
@@ -21,7 +35,6 @@ Future Features?
   * Warpath statistics (inc route distance)
   * AP statistics
   * Filters (not really need as Kismet already has these, see kismet.conf)
-
 
 
 == Version 0.2 (old) ==
