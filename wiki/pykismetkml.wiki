@@ -6,7 +6,7 @@ pykismetkml is a python script designed to export .gps and .xml files (in < Kism
 
 = Versions =
 
-==0.41== - Newest version. Minor bugfix version (failed when trying to fetch essid of cloaked network). Outputfile parameter is also now optional, if no outputfile is specified pykismetkml will take the base name of the .netxml and use this.
+*0.41* - Newest version. Minor bugfix version (failed when trying to fetch essid of cloaked network). Outputfile parameter is also now optional, if no outputfile is specified pykismetkml will take the base name of the .netxml and use this.
 
 e.g if -i Kismet-20090606-18-18-18-1.netxml
 then output file would be Kismet-20090606-18-18-18-1.kml
