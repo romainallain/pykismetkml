@@ -6,7 +6,7 @@
 This is a list of current and proposed (future) features
 
 
-== Version 0.4 (current) ==
+== Version 0.4/2010-02-R1 ==
 
 Current Features
   * Export .netxml and .gpsxml to .kml
