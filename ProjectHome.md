@@ -1,0 +1,1 @@
+An extension of the pykismetearth library with added functionality.
